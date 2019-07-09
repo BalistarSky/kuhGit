@@ -1,0 +1,30 @@
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\bin\Debug\Kuh20.exe
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\bin\Debug\Kuh20.pdb
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.FormKuh.resources
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.Properties.Resources.resources
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.exe
+E:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.pdb
+F:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.exe
+F:\Schule\Pool\SAE\18aa - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.pdb
+E:\#Schule\#Pool\SAE\18b - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.exe
+E:\#Schule\#Pool\SAE\18b - OOP-Übungen\Kuh20\Kuh20\obj\x86\Debug\Kuh20.pdb
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20\Kuh20\obj\x86\Debug\Kuh20.exe
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20\Kuh20\obj\x86\Debug\Kuh20.pdb
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.exe
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.pdb
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.csprojResolveAssemblyReference.cache
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.FormKuh.resources
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.Properties.Resources.resources
+G:\#Schule\#Pool\SAE\18b - OOP-Übungen Kuh-Simulator\Kuh20 - VORLAGE\Kuh20\obj\x86\Debug\Kuh20.csproj.GenerateResource.Cache
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\bin\Debug\Kuh20.exe
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\bin\Debug\Kuh20.pdb
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.csprojAssemblyReference.cache
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.FormKuh.resources
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.Properties.Resources.resources
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.csproj.GenerateResource.cache
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.csproj.CoreCompileInputs.cache
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.exe
+C:\Users\Kurikara\source\repos\Kuh20 - meine Lsg\Kuh20\obj\x86\Debug\Kuh20.pdb
